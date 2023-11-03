@@ -136,21 +136,22 @@ function App() {
 export default App;
 ```
 
+## Enter this URL on web address. 
 * localhost:3000/api/users
-Data should come.
+* Output.
 
 ```
 {"name":"Dhiraj","phone":"9999999999","country":"India"}
 ```
+
+## Enter this URL on web address.
 * localhost:3001
-You should get the output
+* Output
 
 ```
 User Data
 Name: Arya
-
 Phone: 9999999999
-
 Country: India
 ```
 
